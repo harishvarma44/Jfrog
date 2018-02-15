@@ -13,7 +13,7 @@
     <property name="POM_ARTIFACTID" value="multi"/>
     <property name="os.name" value="Linux"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="POM_DISPLAYNAME" value="Simple Multi Modules Build"/>
     <property name="NODE_LABELS" value="master"/>
@@ -25,9 +25,9 @@
     <property name="maven.repo.local" value="/root/.jenkins/workspace/Maven-Jfrog-Versioning/.repository"/>
     <property name="user.language" value="en"/>
     <property name="JOB_BASE_NAME" value="Maven-Jfrog-Versioning"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/21/display/redirect?page=changes"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/23/display/redirect?page=changes"/>
     <property name="M2" value="/usr/local/apache-maven/bin"/>
-    <property name="BUILD_DISPLAY_NAME" value="#21"/>
+    <property name="BUILD_DISPLAY_NAME" value="#23"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/amd64"/>
     <property name="GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="b3c435d93410fc31826750a42f69361c1e1ae7a7"/>
     <property name="java.version" value="1.8.0_161"/>
@@ -38,7 +38,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="TERM" value="xterm"/>
     <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/endorsed"/>
-    <property name="BUILD_ID" value="21"/>
+    <property name="BUILD_ID" value="23"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -54,17 +54,17 @@
     <property name="JRE_HOME" value="/usr/lib/jvm/java-8-oracle/jre"/>
     <property name="user.country" value="IN"/>
     <property name="securerandom.source" value="file:/dev/./urandom"/>
-    <property name="v" value="21"/>
+    <property name="v" value="23"/>
     <property name="java.home" value="/usr/lib/jvm/java-8-oracle/jre"/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="LESSOPEN" value="| /usr/bin/lesspipe %s"/>
     <property name="os.version" value="4.4.0-31-generic"/>
-    <property name="RUN_DISPLAY_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/21/display/redirect"/>
-    <property name="POM_VERSION" value="3.20-SNAPSHOT"/>
+    <property name="RUN_DISPLAY_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/23/display/redirect"/>
+    <property name="POM_VERSION" value="3.21-SNAPSHOT"/>
     <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
     <property name="path.separator" value=":"/>
     <property name="java.vm.version" value="25.161-b12"/>
-    <property name="GIT_PREVIOUS_COMMIT" value="b3c435d93410fc31826750a42f69361c1e1ae7a7"/>
+    <property name="GIT_PREVIOUS_COMMIT" value="290658e8f4b968e570add2fb8fe472f61d38ce3a"/>
     <property name="JOB_DISPLAY_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/display/redirect"/>
     <property name="SHLVL" value="1"/>
     <property name="_" value="./startup.sh"/>
@@ -81,7 +81,7 @@
     <property name="POM_GROUPID" value="org.jfrog.test"/>
     <property name="user.home" value="/root"/>
     <property name="GIT_COMMITTER_NAME" value="Harish"/>
-    <property name="BUILD_TAG" value="jenkins-Maven-Jfrog-Versioning-21"/>
+    <property name="BUILD_TAG" value="jenkins-Maven-Jfrog-Versioning-23"/>
     <property name="JENKINS_SERVER_COOKIE" value="a4aa60ca9a4e2d73"/>
     <property name="HUDSON_URL" value="http://192.168.58.101:8080/jenkins/"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -92,7 +92,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="/usr/local/apache-maven-3.5.2"/>
     <property name="java.class.path" value="/root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.12-alpha-1.jar:/usr/local/apache-maven-3.5.2/boot/plexus-classworlds-2.5.2.jar:/usr/local/apache-maven-3.5.2/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /usr/local/apache-maven-3.5.2 /opt/tomcat/tomcat9/webapps/jenkins/WEB-INF/lib/remoting-3.10.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 40230"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main /usr/local/apache-maven-3.5.2 /opt/tomcat/tomcat9/webapps/jenkins/WEB-INF/lib/remoting-3.10.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 45153"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PATH+JDK" value="/usr/lib/jvm/java-8-oracle/bin"/>
     <property name="java.vm.specification.version" value="1.8"/>
@@ -103,11 +103,11 @@
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="HUDSON_HOME" value="/root/.jenkins"/>
     <property name="PATH+MAVEN" value="/usr/local/apache-maven-3.5.2/bin"/>
-    <property name="BUILD_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/21/"/>
+    <property name="BUILD_URL" value="http://192.168.58.101:8080/jenkins/job/Maven-Jfrog-Versioning/23/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="LS_COLORS" value="rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:"/>
     <property name="OLDPWD" value="/root"/>
-    <property name="buildInfoConfig.propertiesFile" value="/root/.jenkins/workspace/Maven-Jfrog-Versioning/buildInfo6722374356043342378.properties"/>
+    <property name="buildInfoConfig.propertiesFile" value="/root/.jenkins/workspace/Maven-Jfrog-Versioning/buildInfo5742725709698702920.properties"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/ext:/usr/java/packages/lib/ext"/>
@@ -118,10 +118,10 @@
 "/>
     <property name="MAVEN_HOME" value="/usr/local/apache-maven-3.5.2"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="21"/>
+    <property name="BUILD_NUMBER" value="23"/>
     <property name="JENKINS_URL" value="http://192.168.58.101:8080/jenkins/"/>
     <property name="GIT_BRANCH" value="origin/master"/>
-    <property name="GIT_COMMIT" value="b3c435d93410fc31826750a42f69361c1e1ae7a7"/>
+    <property name="GIT_COMMIT" value="2913c43f5f94b23b646e38efcb496e0779c9bdd1"/>
     <property name="SUDO_UID" value="1000"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="LANG" value="en_IN"/>
