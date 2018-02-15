@@ -9,6 +9,11 @@
 # To enable this hook, rename this file to "pre-applypatch".
 
 . git-sh-setup
+<<<<<<< HEAD
 test -x "$GIT_DIR/hooks/pre-commit" &&
 	exec "$GIT_DIR/hooks/pre-commit" ${1+"$@"}
+=======
+precommit="$(git rev-parse --git-path hooks/pre-commit)"
+test -x "$precommit" && exec "$precommit" ${1+"$@"}
+>>>>>>> 45079ceb41a24465819f599413a8eb4c47c754ab
 :

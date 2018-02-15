@@ -1,6 +1,10 @@
 #!/bin/sh
 #
+<<<<<<< HEAD
 # An example hook script to blocks unannotated tags from entering.
+=======
+# An example hook script to block unannotated tags from entering.
+>>>>>>> 45079ceb41a24465819f599413a8eb4c47c754ab
 # Called by "git receive-pack" with arguments: refname sha1-old sha1-new
 #
 # To enable this hook, rename this file to "update".
