@@ -2,9 +2,9 @@
   "properties" : {
     "java.vendor" : "Oracle Corporation",
     "buildInfo.env.USER" : "root",
-    "buildInfo.env.RT_RELEASE_STAGING_SCM_BRANCH" : "REL-BRANCH-multi-3.31",
+    "buildInfo.env.RT_RELEASE_STAGING_SCM_BRANCH" : "REL-BRANCH-multi-3.32",
     "sun.java.launcher" : "SUN_STANDARD",
-    "buildInfo.env.BUILD_TAG" : "jenkins-Jfrog_PlugGit_Deploy_Versioning-41",
+    "buildInfo.env.BUILD_TAG" : "jenkins-Jfrog_PlugGit_Deploy_Versioning-45",
     "sun.management.compiler" : "HotSpot 64-Bit Tiered Compilers",
     "buildInfo.env.DERBY_HOME" : "/usr/lib/jvm/java-8-oracle/db",
     "buildInfo.env.CLASSPATH" : "/usr/lib/jvm/java-8-oracle/lib/",
@@ -14,34 +14,34 @@
     "buildInfo.env.LOGNAME" : "root",
     "sun.boot.class.path" : "/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes",
     "buildInfo.env.GIT_COMMITTER_NAME" : "Harish",
-    "buildInfo.env.RUN_CHANGES_DISPLAY_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/41/display/redirect?page=changes",
+    "buildInfo.env.RUN_CHANGES_DISPLAY_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/45/display/redirect?page=changes",
     "java.vm.specification.vendor" : "Oracle Corporation",
     "java.runtime.version" : "1.8.0_161-b12",
     "user.name" : "root",
     "buildInfo.env.JOB_BASE_NAME" : "Jfrog_PlugGit_Deploy_Versioning",
-    "buildInfo.env.buildInfoConfig.propertiesFile" : "/root/.jenkins/workspace/Jfrog_PlugGit_Deploy_Versioning/buildInfo3511614038680359862.properties",
+    "buildInfo.env.buildInfoConfig.propertiesFile" : "/root/.jenkins/workspace/Jfrog_PlugGit_Deploy_Versioning/buildInfo5304974041661115885.properties",
     "guice.disable.misplaced.annotation.check" : "true",
     "buildInfo.env.J2SDKDIR" : "/usr/lib/jvm/java-8-oracle",
-    "buildInfo.env.POM_VERSION" : "3.30",
+    "buildInfo.env.POM_VERSION" : "3.31",
     "buildInfo.env.LS_COLORS" : "rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:",
-    "buildInfo.env.BUILD_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/41/",
+    "buildInfo.env.BUILD_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/45/",
     "maven.repo.local" : "/root/.jenkins/workspace/Jfrog_PlugGit_Deploy_Versioning/.repository",
     "buildInfo.env.JRE_HOME" : "/usr/lib/jvm/java-8-oracle/jre",
     "user.language" : "en",
-    "buildInfo.env.RELEASE_SCM_TAG" : "multi-3.31",
+    "buildInfo.env.RELEASE_SCM_TAG" : "multi-3.32",
     "buildInfo.env.JENKINS_HOME" : "/root/.jenkins",
     "sun.boot.library.path" : "/usr/lib/jvm/java-8-oracle/jre/lib/amd64",
     "buildInfo.env.M2_HOME" : "/usr/local/apache-maven-3.5.2",
     "buildInfo.env.USERNAME" : "root",
     "buildInfo.env.HUDSON_URL" : "http://192.168.58.101:8080/jenkins/",
     "buildInfo.env.WORKSPACE" : "/root/.jenkins/workspace/Jfrog_PlugGit_Deploy_Versioning",
-    "buildInfo.env.HUDSON_COOKIE" : "fcd6be64-68cb-4d7d-8e45-e3ea6b79517a",
+    "buildInfo.env.HUDSON_COOKIE" : "471016e2-257e-4265-b4fb-0cf338d866ba",
     "buildInfo.env.SUDO_USER" : "harish",
     "java.version" : "1.8.0_161",
-    "buildInfo.env.RT_RELEASE_STAGING_VERSION" : "3.31",
+    "buildInfo.env.RT_RELEASE_STAGING_VERSION" : "3.32",
     "user.timezone" : "Asia/Kolkata",
     "buildInfo.env.JENKINS_SERVER_COOKIE" : "a4aa60ca9a4e2d73",
-    "buildInfo.env.BUILD_ID" : "41",
+    "buildInfo.env.BUILD_ID" : "45",
     "sun.arch.data.model" : "64",
     "buildInfo.env.GIT_AUTHOR_EMAIL" : "harishvarma44@gmail.com",
     "buildInfo.env.SUDO_GID" : "1000",
@@ -57,7 +57,7 @@
     "java.specification.name" : "Java Platform API Specification",
     "maven.conf" : "/usr/local/apache-maven-3.5.2/conf",
     "buildInfo.env.JOB_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/",
-    "buildInfo.env.RT_RELEASE_STAGING_NEXT_VERSION" : "3.32-SNAPSHOT",
+    "buildInfo.env.RT_RELEASE_STAGING_NEXT_VERSION" : "3.33-SNAPSHOT",
     "java.class.version" : "52.0",
     "org.slf4j.simpleLogger.defaultLogLevel" : "info",
     "buildInfo.env.LESSOPEN" : "| /usr/bin/lesspipe %s",
@@ -86,7 +86,7 @@
     "buildInfo.env.PATH+JDK" : "/usr/lib/jvm/java-8-oracle/bin",
     "buildInfo.env.HOME" : "/root",
     "user.home" : "/root",
-    "buildInfo.env.GIT_COMMIT" : "accfa5d3ed5891991a21982c5b9a4b62bb4d2639",
+    "buildInfo.env.GIT_COMMIT" : "1d406cfcc58fd82e5ca7946272de79f48df8622f",
     "java.specification.vendor" : "Oracle Corporation",
     "java.vendor.url" : "http://java.oracle.com/",
     "java.library.path" : "/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib",
@@ -96,8 +96,8 @@
     "buildInfo.env.GIT_AUTHOR_NAME" : "Harish",
     "maven.home" : "/usr/local/apache-maven-3.5.2",
     "java.runtime.name" : "Java(TM) SE Runtime Environment",
-    "buildInfo.env.GIT_PREVIOUS_COMMIT" : "accfa5d3ed5891991a21982c5b9a4b62bb4d2639",
-    "sun.java.command" : "jenkins.maven3.agent.Maven35Main /usr/local/apache-maven-3.5.2 /opt/tomcat/tomcat9/webapps/jenkins/WEB-INF/lib/remoting-3.10.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 36890",
+    "buildInfo.env.GIT_PREVIOUS_COMMIT" : "1d406cfcc58fd82e5ca7946272de79f48df8622f",
+    "sun.java.command" : "jenkins.maven3.agent.Maven35Main /usr/local/apache-maven-3.5.2 /opt/tomcat/tomcat9/webapps/jenkins/WEB-INF/lib/remoting-3.10.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar /root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar 45813",
     "java.class.path" : "/root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-agent-1.12-alpha-1.jar:/usr/local/apache-maven-3.5.2/boot/plexus-classworlds-2.5.2.jar:/usr/local/apache-maven-3.5.2/conf/logging",
     "buildInfo.env.SHLVL" : "1",
     "java.vm.specification.name" : "Java Virtual Machine Specification",
@@ -108,21 +108,21 @@
     "sun.os.patch.level" : "unknown",
     "sun.cpu.endian" : "little",
     "java.io.tmpdir" : "/tmp",
-    "buildInfo.env.BUILD_DISPLAY_NAME" : "#41",
+    "buildInfo.env.BUILD_DISPLAY_NAME" : "#45",
     "buildInfo.env.MAIL" : "/var/mail/root",
     "PATH+MAVEN" : "/usr/local/apache-maven-3.5.2/bin",
     "java.vendor.url.bug" : "http://bugreport.sun.com/bugreport/",
     "buildInfo.env.NODE_NAME" : "master",
-    "buildInfo.env.RUN_DISPLAY_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/41/display/redirect",
+    "buildInfo.env.RUN_DISPLAY_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/45/display/redirect",
     "buildInfo.env.extractor.used" : "true",
-    "buildInfo.env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" : "accfa5d3ed5891991a21982c5b9a4b62bb4d2639",
+    "buildInfo.env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" : "1d406cfcc58fd82e5ca7946272de79f48df8622f",
     "java.awt.graphicsenv" : "sun.awt.X11GraphicsEnvironment",
     "os.arch" : "amd64",
     "buildInfo.env.M2" : "/usr/local/apache-maven/bin",
     "java.ext.dirs" : "/usr/lib/jvm/java-8-oracle/jre/lib/ext:/usr/java/packages/lib/ext",
-    "buildInfo.env.RT_RELEASE_STAGING_SCM_TAG" : "multi-3.31",
+    "buildInfo.env.RT_RELEASE_STAGING_SCM_TAG" : "multi-3.32",
     "user.dir" : "/root/.jenkins/workspace/Jfrog_PlugGit_Deploy_Versioning/maven-example",
-    "buildInfo.env.RELEASE_SCM_BRANCH" : "REL-BRANCH-multi-3.31",
+    "buildInfo.env.RELEASE_SCM_BRANCH" : "REL-BRANCH-multi-3.32",
     "buildInfo.env.JOB_DISPLAY_URL" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/display/redirect",
     "line.separator" : "\n",
     "buildInfo.env.JAVA_HOME" : "/usr/lib/jvm/java-8-oracle/jre",
@@ -133,7 +133,7 @@
     "file.encoding" : "UTF-8",
     "maven3.interceptor" : "/root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven35-interceptor-1.12-alpha-1.jar",
     "buildInfo.env.LANG" : "en_IN",
-    "buildInfo.env.BUILD_NUMBER" : "41",
+    "buildInfo.env.BUILD_NUMBER" : "45",
     "maven3.interceptor.common" : "/root/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.12-alpha-1.jar",
     "buildInfo.env.LANGUAGE" : "en_IN:en",
     "java.specification.version" : "1.8",
@@ -141,7 +141,7 @@
   },
   "version" : "1.0.1",
   "name" : "Jfrog_PlugGit_Deploy_Versioning",
-  "number" : "41",
+  "number" : "45",
   "type" : "MAVEN",
   "buildAgent" : {
     "name" : "Maven",
@@ -151,16 +151,16 @@
     "name" : "Jenkins",
     "version" : "2.73"
   },
-  "started" : "2018-02-28T15:07:24.416+0530",
-  "durationMillis" : 11236,
+  "started" : "2018-02-28T15:19:30.512+0530",
+  "durationMillis" : 11027,
   "principal" : "harish",
   "artifactoryPluginVersion" : "2.14.0",
-  "url" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/41/",
+  "url" : "http://192.168.58.101:8080/jenkins/job/Jfrog_PlugGit_Deploy_Versioning/45/",
   "vcs" : [ {
-    "revision" : "accfa5d3ed5891991a21982c5b9a4b62bb4d2639",
+    "revision" : "1d406cfcc58fd82e5ca7946272de79f48df8622f",
     "url" : "https://github.com/harishvarma44/Jfrog.git"
   } ],
-  "vcsRevision" : "accfa5d3ed5891991a21982c5b9a4b62bb4d2639",
+  "vcsRevision" : "1d406cfcc58fd82e5ca7946272de79f48df8622f",
   "vcsUrl" : "https://github.com/harishvarma44/Jfrog.git",
   "licenseControl" : {
     "runChecks" : false,
@@ -171,20 +171,20 @@
   },
   "modules" : [ {
     "properties" : {
-      "daversion" : "3.31",
+      "daversion" : "3.32",
       "project.build.sourceEncoding" : "UTF-8"
     },
-    "id" : "org.jfrog.test:multi2:3.31"
+    "id" : "org.jfrog.test:multi2:3.32"
   }, {
     "properties" : {
       "project.build.sourceEncoding" : "UTF-8"
     },
-    "id" : "org.jfrog.test:multi:3.31",
+    "id" : "org.jfrog.test:multi:3.32",
     "artifacts" : [ {
       "type" : "pom",
-      "sha1" : "6d12b95ca2f8d56f7926b1ac1c3717d7c59e23e0",
-      "md5" : "5f5cf553436087abdbe5dcc3bc68c58f",
-      "name" : "multi-3.31.pom"
+      "sha1" : "b6ed1c4d75bbe3cff885b11f3954e8403fefe5d9",
+      "md5" : "fa7ca0cb83e5b649e21f4ef233a0998a",
+      "name" : "multi-3.32.pom"
     } ],
     "dependencies" : [ {
       "type" : "pom",
@@ -275,7 +275,7 @@
     "properties" : {
       "project.build.sourceEncoding" : "UTF-8"
     },
-    "id" : "org.jfrog.test:multi1:3.31",
+    "id" : "org.jfrog.test:multi1:3.32",
     "dependencies" : [ {
       "type" : "jar",
       "sha1" : "ae55264ab9ffbbfdba08c8c7853bbe4a2dd32e8a",
@@ -1589,7 +1589,7 @@
     "properties" : {
       "project.build.sourceEncoding" : "UTF-8"
     },
-    "id" : "org.jfrog.test:multi3:3.31",
+    "id" : "org.jfrog.test:multi3:3.32",
     "dependencies" : [ {
       "type" : "jar",
       "sha1" : "449ea46b27426eb846611a90b2fb8b4dcf271191",
@@ -1633,12 +1633,6 @@
       "id" : "org.apache.commons:commons-email:1.1",
       "scopes" : [ "compile" ]
     }, {
-      "type" : "pom",
-      "sha1" : "7f8527a626ab4146c88160606b715597f0ac9433",
-      "md5" : "a0e4bc30227882bdfb428a971fa17e11",
-      "id" : "org.jfrog.test:multi1:3.31",
-      "scopes" : [ "compile", "project" ]
-    }, {
       "type" : "jar",
       "sha1" : "e6cb541461c2834bdea3eb920f1884d1eb508b50",
       "md5" : "8ae38e87cd4f86059c0294a8fe3e0b18",
@@ -1676,24 +1670,30 @@
       "scopes" : [ "compile" ]
     }, {
       "type" : "jar",
-      "id" : "org.jfrog.test:multi1:3.31",
-      "scopes" : [ "compile" ]
+      "id" : "org.jfrog.test:multi1:3.32",
+      "scopes" : [ "compile", "project" ]
     }, {
       "type" : "jar",
       "sha1" : "c450bc49099430e13d21548d1e3d1a564b7e35e9",
       "md5" : "378db2cc1fbdd9ed05dff2dc1023963e",
       "id" : "org.springframework:spring-core:2.5.6",
       "scopes" : [ "compile" ]
+    }, {
+      "type" : "pom",
+      "sha1" : "833b63bdfda6c5208e0ae0150806fbd480f48b2d",
+      "md5" : "1a1e6b16965211b27020c45e99f37615",
+      "id" : "org.jfrog.test:multi1:3.32",
+      "scopes" : [ "project" ]
     } ]
   } ],
   "statuses" : [ {
     "status" : "Staged",
     "comment" : "",
     "repository" : "libs-release-local",
-    "timestamp" : "2018-02-28T15:07:24.416+0530",
+    "timestamp" : "2018-02-28T15:19:30.512+0530",
     "user" : "admin",
     "ciUser" : "harish",
-    "timestampDate" : 1519810644416
+    "timestampDate" : 1519811370512
   } ],
   "governance" : {
     "blackDuckProperties" : {
